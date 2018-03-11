@@ -40,7 +40,9 @@ public class Principal {
                 resultado+=romanoAntecessor;
             }
             contador--;            
-        }        
+        }   
+
+		
         return resultado;
     }        
 }
